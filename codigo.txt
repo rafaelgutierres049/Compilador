@@ -1,0 +1,9 @@
+int main() {
+    float a = 10.3;
+    if (a > 10) {
+        printf("A maior que 10");/Comentario;
+    } else {
+        printf("A não é maior que 10");/*Bloco de 
+        Comentario*
+    }
+}
