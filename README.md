@@ -23,3 +23,6 @@ Manipulação da Tabela de Símbolos:
   Funções de Pilha:
   
   A manipulação de pilha é feita corretamente, mas como a tabela de símbolos armazena apenas caracteres (char), seria interessante armazenar informações mais detalhadas sobre os símbolos, como identificadores e seus respectivos tipos.
+
+
+Criado por [Rafael Ponte Gutierres](https://github.com/rafaelgutierres049).
